@@ -10,6 +10,7 @@ namespace CSharpGit
         private string name;
         private int age;
         private char gender;
-        private string adress;
+        private string address;
+        private int dob;
     }
 }
