@@ -17,5 +17,10 @@ namespace CSharpGit
         {
 
         }
+        
+        public void test3()
+        {
+            
+        }
     }
 }
