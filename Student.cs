@@ -11,6 +11,7 @@ namespace CSharpGit
         private string name;
         private int age;
         private string collegeName;
+        string hobby;
 
         
     }
